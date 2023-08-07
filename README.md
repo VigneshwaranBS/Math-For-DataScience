@@ -1,4 +1,4 @@
-# math-for-machine-learning
+# math-for-machine-learning.
 Statistics and math for machine learning and data science.
 
 Welcome to the "Math for Machine Learning" repository! This repository is dedicated to providing an overview of important mathematical concepts and techniques that are fundamental for understanding machine learning and data science. Whether you're just starting out or looking to refresh your math skills, you'll find resources and explanations for various topics in this repository.
